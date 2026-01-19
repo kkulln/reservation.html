@@ -173,23 +173,3 @@
   <button class="menu-btn">CHRISTMAS NAIL</button>
 </a>
 
-/* aタグの下線を消す（ボタンっぽく見せる） */
-.btn-link {
-  text-decoration: none;
-}
-
-<a href="reservation.html?menu=foot" class="btn-link">
-  <button class="menu-btn">FOOT NAIL</button>
-</a>
-
-<a href="reservation.html?menu=foot" class="btn-link">
-  <button class="menu-btn">FOOT NAIL</button>
-</a>
-
-<a href="reservation.html?menu=gel" class="btn-link">
-  <button class="menu-btn">GEL NAIL</button>
-</a>
-
-<a href="reservation.html?menu=christmas" class="btn-link">
-  <button class="menu-btn">CHRISTMAS NAIL</button>
-</a>
