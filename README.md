@@ -1,4 +1,4 @@
-# reservation.
+# index.html
 
 <!DOCTYPE html>
 <html lang="ja">
