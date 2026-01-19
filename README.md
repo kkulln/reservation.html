@@ -152,3 +152,44 @@
 
 </body>
 </html>
+
+<!-- BOOK NOW をクリックすると reservation.html に移動 -->
+<a href="reservation.html" class="btn-link">
+  <button class="btn">BOOK NOW</button>
+</a>
+
+<!-- FOOT NAIL -->
+<a href="reservation.html" class="btn-link">
+  <button class="menu-btn">FOOT NAIL</button>
+</a>
+
+<!-- GEL NAIL -->
+<a href="reservation.html" class="btn-link">
+  <button class="menu-btn">GEL NAIL</button>
+</a>
+
+<!-- CHRISTMAS NAIL -->
+<a href="reservation.html" class="btn-link">
+  <button class="menu-btn">CHRISTMAS NAIL</button>
+</a>
+
+/* aタグの下線を消す（ボタンっぽく見せる） */
+.btn-link {
+  text-decoration: none;
+}
+
+<a href="reservation.html?menu=foot" class="btn-link">
+  <button class="menu-btn">FOOT NAIL</button>
+</a>
+
+<a href="reservation.html?menu=foot" class="btn-link">
+  <button class="menu-btn">FOOT NAIL</button>
+</a>
+
+<a href="reservation.html?menu=gel" class="btn-link">
+  <button class="menu-btn">GEL NAIL</button>
+</a>
+
+<a href="reservation.html?menu=christmas" class="btn-link">
+  <button class="menu-btn">CHRISTMAS NAIL</button>
+</a>
