@@ -165,9 +165,7 @@
     <label>希望時間</label>
     <input type="time" required>
 
-    <button type="submit">予約する</button>
-  </form>
-</div>
+    <button type="submit">予約する</button＞
 
 <script>
   const params = new URLSearchParams(location.search);
